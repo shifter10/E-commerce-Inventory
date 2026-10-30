@@ -333,3 +333,5 @@ PhotoGear turns the laboratory concepts from Labs 1--8 into a practical
 e-commerce scenario. Each required data structure has a specific role,
 while input validation, inventory checks, pointer cleanup, and dynamic
 memory management make the system safer and easier to demonstrate.
+#   P h o t o g r a p h y - C a m e r a - E q u i p m e n t -  
+ 
